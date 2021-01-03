@@ -20,3 +20,20 @@ patch:
         patched: '2021-01-03T01:48:55.427Z'
     - antd > rc-editor-mention > rc-editor-core > lodash:
         patched: '2021-01-03T01:48:55.427Z'
+  SNYK-JS-LODASH-450202:
+    - antd > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - html-webpack-plugin > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - webpack-merge > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - antd > rc-form > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - antd > rc-steps > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - antd > rc-table > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - antd > rc-tabs > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
+    - antd > rc-editor-mention > rc-editor-core > lodash:
+        patched: '2021-01-03T22:57:32.082Z'
