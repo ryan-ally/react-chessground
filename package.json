@@ -5,7 +5,9 @@
   "main": "index.js",
   "module": "es/index.js",
   "scripts": {
-    "build": "gulp"
+    "build": "gulp",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -27,7 +29,8 @@
   "homepage": "https://github.com/ruilisi/react-chessground",
   "dependencies": {
     "chessground": "^7.6.12",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^5.0.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
@@ -39,5 +42,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-uglifycss": "^1.1.0",
     "react": "^16.12.0"
-  }
+  },
+  "snyk": true
 }
