@@ -27,11 +27,11 @@
   "homepage": "https://github.com/ruilisi/react-chessground",
   "dependencies": {
     "chessground": "^7.6.12",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
-    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/preset-env": "^7.8.3",
     "@babel/preset-react": "^7.8.3",
     "gulp": "^4.0.2",
