@@ -10,7 +10,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
-    "next": "10.0.4",
+    "next": "12.2.3",
     "react": "16.13.1",
     "react-chessground": "^1.5.0",
     "react-dom": "16.13.1",
